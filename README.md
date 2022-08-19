@@ -2,6 +2,7 @@
 - 👀 I’m interested in doing cool thing
 - 🌱 I’m currently learning python, C++ and Git 
 - 📫 How to reach me no
+1/289920 -\|/-
 
 <!---
 xdgaamerr/xdgaamerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
