@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xdgaamerr
 - 👀 I’m interested in doing cool thing
-- 🌱 I’m currently learning python, lua, and HTML (haha I'm in danger)
+- 🌱 I’m currently learning python, C++ and Git 
 - 📫 How to reach me no
 
 <!---
