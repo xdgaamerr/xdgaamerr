@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xdgaamerr
 - 👀 I’m interested in doing cool thing
-- 🌱 I’m currently learning python, C++ and Git 
+- 🌱 I’m currently learning python why
 - 📫 How to reach me no
 1/289920 -\|/-
 
