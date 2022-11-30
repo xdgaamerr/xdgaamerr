@@ -3,6 +3,10 @@
 I'm not doing anything fancy
 I barely know python
 > Me is am stupid - xdgaamerr
+and at that I barely know programming
+# I HAVE FALLEN VICTIM TO THE DUNNING kRUEGER EFFECT
+I'm honestly just a real world example
+#### Please send help
 
 
 <!---
