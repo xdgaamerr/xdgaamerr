@@ -1,5 +1,5 @@
-#BREAKING NEWS
-##I AM GOING TO CUT TO THE CHASE
+#BREAKING NEWS  
+##I AM GOING TO CUT TO THE CHASE  
 I'm not doing anything fancy
 I barely know python
 > Me is am stupid - xdgaamerr
