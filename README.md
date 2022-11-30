@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @xdgaamerr
-- 👀 I’m interested in doing cool thing
-- 🌱 I’m currently learning python why
-- 📫 How to reach me no
-1/289920 -\|/-
+#BREAKING NEWS
+##I AM GOING TO CUT TO THE CHASE
+I'm not doing anything fancy
+I barely know python
+> Me is am stupid - xdgaamerr
+
 
 <!---
 xdgaamerr/xdgaamerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
